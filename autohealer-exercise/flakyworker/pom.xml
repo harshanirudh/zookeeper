@@ -34,7 +34,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Application</mainClass>
+                            <mainClass>harsha.distirbuted.systems.Application</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
