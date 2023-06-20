@@ -1,8 +1,8 @@
-package harsha.distirbuted.systems;
+package harsha.distirbuted.systems.serviceregistry;
 
-import harsha.distirbuted.systems.cluster.management.LeaderElection;
-import harsha.distirbuted.systems.cluster.management.OnElectionCallback;
-import harsha.distirbuted.systems.cluster.management.ServiceRegistry;
+import harsha.distirbuted.systems.serviceregistry.cluster.management.LeaderElection;
+import harsha.distirbuted.systems.serviceregistry.cluster.management.OnElectionCallback;
+import harsha.distirbuted.systems.serviceregistry.cluster.management.ServiceRegistry;
 import org.apache.zookeeper.KeeperException;
 import org.apache.zookeeper.WatchedEvent;
 import org.apache.zookeeper.Watcher;

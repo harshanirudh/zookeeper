@@ -1,10 +1,9 @@
-package harsha.distirbuted.systems;
+package harsha.distirbuted.systems.serviceregistry;
 
-import harsha.distirbuted.systems.cluster.management.OnElectionCallback;
-import harsha.distirbuted.systems.cluster.management.ServiceRegistry;
+import harsha.distirbuted.systems.serviceregistry.cluster.management.OnElectionCallback;
+import harsha.distirbuted.systems.serviceregistry.cluster.management.ServiceRegistry;
 import org.apache.zookeeper.KeeperException;
 
-import java.net.Inet4Address;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 

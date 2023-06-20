@@ -1,4 +1,4 @@
-package harsha.distirbuted.systems.cluster.management;
+package harsha.distirbuted.systems.serviceregistry.cluster.management;
 
 public interface OnElectionCallback {
     void onElectToBeLeader();

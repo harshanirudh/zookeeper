@@ -1,9 +1,8 @@
-package harsha.distirbuted.systems.cluster.management;
+package harsha.distirbuted.systems.serviceregistry.cluster.management;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.Stat;
 
-import java.io.IOException;
 import java.util.Collections;
 import java.util.List;
 
